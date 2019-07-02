@@ -1,0 +1,450 @@
+{
+  "width" : 40,
+  "height" : 16,
+  "components" : [ {
+    "type" : "component.DIL",
+    "x" : 5,
+    "y" : 3,
+    "width" : 0,
+    "height" : 0,
+    "value" : "",
+    "pins" : 18,
+    "span" : 2
+  }, {
+    "type" : "component.Label",
+    "x" : 0,
+    "y" : 1,
+    "width" : 0,
+    "height" : 0,
+    "value" : "4.5V"
+  }, {
+    "type" : "component.Label",
+    "x" : 0,
+    "y" : 12,
+    "width" : 0,
+    "height" : 0,
+    "value" : "0v"
+  }, {
+    "type" : "component.SIL",
+    "x" : 3,
+    "y" : 3,
+    "width" : 0,
+    "height" : 0,
+    "value" : "",
+    "pins" : 3
+  }, {
+    "type" : "component.SIL",
+    "x" : 3,
+    "y" : 9,
+    "width" : 0,
+    "height" : 0,
+    "value" : "",
+    "pins" : 2
+  }, {
+    "type" : "component.Capacitor",
+    "x" : 2,
+    "y" : 7,
+    "width" : 1,
+    "height" : 5,
+    "value" : ""
+  }, {
+    "type" : "component.Capacitor",
+    "x" : 1,
+    "y" : 8,
+    "width" : 1,
+    "height" : 4,
+    "value" : ""
+  }, {
+    "type" : "component.SIL",
+    "x" : 10,
+    "y" : 10,
+    "width" : 0,
+    "height" : 0,
+    "value" : "",
+    "pins" : 2
+  }, {
+    "type" : "component.DIL",
+    "x" : 12,
+    "y" : 2,
+    "width" : 0,
+    "height" : 0,
+    "value" : "",
+    "pins" : 18,
+    "span" : 5
+  }, {
+    "type" : "component.Wire",
+    "x" : 11,
+    "y" : 3,
+    "width" : 1,
+    "height" : 7,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 10,
+    "y" : 3,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 12,
+    "y" : 9,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 12,
+    "y" : 8,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 11,
+    "y" : 10,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Wire",
+    "x" : 14,
+    "y" : 10,
+    "width" : 1,
+    "height" : 2,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 11,
+    "y" : 11,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 18,
+    "y" : 3,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 18,
+    "y" : 4,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 18,
+    "y" : 5,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 18,
+    "y" : 6,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 18,
+    "y" : 8,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.SIL",
+    "x" : 20,
+    "y" : 6,
+    "width" : 1,
+    "height" : 3,
+    "value" : "",
+    "pins" : 7
+  }, {
+    "type" : "component.Break",
+    "x" : 15,
+    "y" : 10,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 15,
+    "y" : 9,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 15,
+    "y" : 8,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 15,
+    "y" : 7,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 15,
+    "y" : 6,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 15,
+    "y" : 5,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 15,
+    "y" : 4,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 15,
+    "y" : 3,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 15,
+    "y" : 2,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.DIL",
+    "x" : 25,
+    "y" : 6,
+    "width" : 0,
+    "height" : 0,
+    "value" : "",
+    "pins" : 8,
+    "span" : 2
+  }, {
+    "type" : "component.SIL",
+    "x" : 32,
+    "y" : 6,
+    "width" : 0,
+    "height" : 0,
+    "value" : "",
+    "pins" : 3
+  }, {
+    "type" : "component.Wire",
+    "x" : 30,
+    "y" : 8,
+    "width" : 1,
+    "height" : -2,
+    "value" : ""
+  }, {
+    "type" : "component.Diode",
+    "x" : 31,
+    "y" : 7,
+    "width" : 1,
+    "height" : -1,
+    "value" : ""
+  }, {
+    "type" : "component.Wire",
+    "x" : 22,
+    "y" : 5,
+    "width" : 1,
+    "height" : 3,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 27,
+    "y" : 6,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 27,
+    "y" : 7,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 27,
+    "y" : 8,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 27,
+    "y" : 9,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 7,
+    "y" : 5,
+    "width" : 1,
+    "height" : 1,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 7,
+    "y" : 4,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 7,
+    "y" : 3,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 7,
+    "y" : 6,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 7,
+    "y" : 7,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 7,
+    "y" : 8,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 7,
+    "y" : 9,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 7,
+    "y" : 10,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 7,
+    "y" : 11,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Wire",
+    "x" : 29,
+    "y" : 1,
+    "width" : 1,
+    "height" : 6,
+    "value" : ""
+  }, {
+    "type" : "component.Wire",
+    "x" : 23,
+    "y" : 1,
+    "width" : 1,
+    "height" : 9,
+    "value" : ""
+  }, {
+    "type" : "component.Wire",
+    "x" : 19,
+    "y" : 1,
+    "width" : 1,
+    "height" : 6,
+    "value" : ""
+  }, {
+    "type" : "component.Wire",
+    "x" : 17,
+    "y" : 1,
+    "width" : 1,
+    "height" : 2,
+    "value" : ""
+  }, {
+    "type" : "component.Wire",
+    "x" : 9,
+    "y" : 1,
+    "width" : 1,
+    "height" : 3,
+    "value" : ""
+  }, {
+    "type" : "component.Wire",
+    "x" : 4,
+    "y" : 11,
+    "width" : 1,
+    "height" : 2,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 21,
+    "y" : 6,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 21,
+    "y" : 9,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Break",
+    "x" : 21,
+    "y" : 7,
+    "width" : 0,
+    "height" : 0,
+    "value" : ""
+  }, {
+    "type" : "component.Wire",
+    "x" : 9,
+    "y" : 8,
+    "width" : 1,
+    "height" : 5,
+    "value" : ""
+  }, {
+    "type" : "component.Wire",
+    "x" : 13,
+    "y" : 2,
+    "width" : 1,
+    "height" : 11,
+    "value" : ""
+  }, {
+    "type" : "component.Wire",
+    "x" : 24,
+    "y" : 6,
+    "width" : 1,
+    "height" : 7,
+    "value" : ""
+  }, {
+    "type" : "component.Capacitor",
+    "x" : 29,
+    "y" : 8,
+    "width" : 1,
+    "height" : 5,
+    "value" : ""
+  } ]
+}
